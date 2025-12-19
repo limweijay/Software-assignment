@@ -1,0 +1,247 @@
+{
+    "milk": {
+        "category": "Dairy",
+        "subs": ["soy milk", "almond milk", "evaporated milk", "oat milk"]
+    },
+    "butter": {
+        "category": "Dairy",
+        "subs": ["margarine", "olive oil", "ghee", "coconut oil"]
+    },
+    "cheddar cheese": {
+        "category": "Dairy",
+        "subs": ["gouda", "colby cheese", "monterey jack"]
+    },
+    "cream": {
+        "category": "Dairy",
+        "subs": ["evaporated milk", "half-and-half", "greek yogurt"]
+    },
+    "yogurt": {
+        "category": "Dairy",
+        "subs": ["sour cream", "buttermilk", "cottage cheese"]
+    },
+    "mozzarella": {
+        "category": "Dairy",
+        "subs": ["provolone", "monterey jack", "cheddar cheese"]
+    },
+    "parmesan": {
+        "category": "Dairy",
+        "subs": ["pecorino romano", "grana padano", "nutritional yeast"]
+    },
+    "buttermilk": {
+        "category": "Dairy",
+        "subs": ["milk + lemon juice", "yogurt + water", "kefir"]
+    },
+    "whipped cream": {
+        "category": "Dairy",
+        "subs": ["coconut cream", "cool whip", "evaporated milk (chilled)"]
+    },
+    "ice cream": {
+        "category": "Dairy",
+        "subs": ["frozen yogurt", "sorbet", "banana nice cream"]
+    },
+
+    "carrot": {
+        "category": "Vegetables",
+        "subs": ["pumpkin", "sweet potato", "parsnip"]
+    },
+    "broccoli": {
+        "category": "Vegetables",
+        "subs": ["cauliflower", "brussels sprouts", "asparagus"]
+    },
+    "spinach": {
+        "category": "Vegetables",
+        "subs": ["kale", "chard", "bok choy"]
+    },
+    "potato": {
+        "category": "Vegetables",
+        "subs": ["sweet potato", "yam", "taro"]
+    },
+    "onion": {
+        "category": "Vegetables",
+        "subs": ["shallots", "green onion", "leeks"]
+    },
+    "garlic": {
+        "category": "Vegetables",
+        "subs": ["garlic powder", "shallots", "ginger (small amount)"]
+    },
+    "bell pepper": {
+        "category": "Vegetables",
+        "subs": ["poblano pepper", "zucchini", "tomatoes"]
+    },
+    "zucchini": {
+        "category": "Vegetables",
+        "subs": ["cucumber", "eggplant", "yellow squash"]
+    },
+    "cabbage": {
+        "category": "Vegetables",
+        "subs": ["lettuce", "kale", "brussels sprouts"]
+    },
+    "tomato": {
+        "category": "Vegetables",
+        "subs": ["bell pepper", "sun-dried tomato", "tomato paste (diluted)"]
+    },
+
+    "chicken breast": {
+        "category": "Meat",
+        "subs": ["turkey breast", "tofu", "pork loin"]
+    },
+    "beef": {
+        "category": "Meat",
+        "subs": ["lamb", "pork", "mushrooms (vegan)"]
+    },
+    "pork loin": {
+        "category": "Meat",
+        "subs": ["chicken thigh", "beef sirloin", "turkey"]
+    },
+    "fish fillet": {
+        "category": "Meat",
+        "subs": ["tofu", "shrimp", "chicken breast (thin sliced)"]
+    },
+    "shrimp": {
+        "category": "Meat",
+        "subs": ["fish cubes", "scallops", "chicken cubes"]
+    },
+    "sausage": {
+        "category": "Meat",
+        "subs": ["ground beef", "ground chicken", "vegan sausage"]
+    },
+    "lamb": {
+        "category": "Meat",
+        "subs": ["beef", "goat meat", "pork"]
+    },
+    "chicken thigh": {
+        "category": "Meat",
+        "subs": ["chicken breast", "turkey thigh", "pork shoulder"]
+    },
+    "bacon": {
+        "category": "Meat",
+        "subs": ["turkey bacon", "ham", "smoked tofu"]
+    },
+    "ham": {
+        "category": "Meat",
+        "subs": ["turkey ham", "bacon", "chicken slices"]
+    },
+
+    "flour": {
+        "category": "Baking",
+        "subs": ["whole wheat flour", "almond flour", "oat flour"]
+    },
+    "sugar": {
+        "category": "Baking",
+        "subs": ["honey", "maple syrup", "brown sugar"]
+    },
+    "baking powder": {
+        "category": "Baking",
+        "subs": ["baking soda + vinegar", "self-rising flour", "yeast (not ideal)"]
+    },
+    "baking soda": {
+        "category": "Baking",
+        "subs": ["baking powder", "potassium bicarbonate"]
+    },
+    "cocoa powder": {
+        "category": "Baking",
+        "subs": ["dark chocolate (melted)", "hot chocolate mix"]
+    },
+    "yeast": {
+        "category": "Baking",
+        "subs": ["baking powder", "sourdough starter"]
+    },
+    "butter (baking)": {
+        "category": "Baking",
+        "subs": ["margarine", "coconut oil", "shortening"]
+    },
+    "vanilla extract": {
+        "category": "Baking",
+        "subs": ["almond extract", "maple syrup"]
+    },
+    "cornstarch": {
+        "category": "Baking",
+        "subs": ["flour", "potato starch", "tapioca starch"]
+    },
+    "brown sugar": {
+        "category": "Baking",
+        "subs": ["white sugar + molasses", "coconut sugar"]
+    },
+
+    "olive oil": {
+        "category": "Cooking Oils",
+        "subs": ["vegetable oil", "canola oil", "avocado oil"]
+    },
+    "vegetable oil": {
+        "category": "Cooking Oils",
+        "subs": ["canola oil", "sunflower oil", "olive oil"]
+    },
+    "coconut oil": {
+        "category": "Cooking Oils",
+        "subs": ["butter", "vegetable oil", "shortening"]
+    },
+    "sesame oil": {
+        "category": "Cooking Oils",
+        "subs": ["peanut oil", "olive oil", "avocado oil"]
+    },
+    "canola oil": {
+        "category": "Cooking Oils",
+        "subs": ["vegetable oil", "sunflower oil", "olive oil"]
+    },
+    "sunflower oil": {
+        "category": "Cooking Oils",
+        "subs": ["vegetable oil", "corn oil", "canola oil"]
+    },
+    "corn oil": {
+        "category": "Cooking Oils",
+        "subs": ["vegetable oil", "sunflower oil"]
+    },
+    "ghee": {
+        "category": "Cooking Oils",
+        "subs": ["butter", "coconut oil", "olive oil"]
+    },
+    "peanut oil": {
+        "category": "Cooking Oils",
+        "subs": ["sesame oil", "vegetable oil"]
+    },
+    "avocado oil": {
+        "category": "Cooking Oils",
+        "subs": ["olive oil", "canola oil"]
+    },
+
+    "rice": {
+        "category": "Grains",
+        "subs": ["quinoa", "couscous", "bulgur"]
+    },
+    "pasta": {
+        "category": "Grains",
+        "subs": ["rice noodles", "udon", "soba"]
+    },
+    "bread": {
+        "category": "Grains",
+        "subs": ["tortilla", "pita", "rice cakes"]
+    },
+    "oats": {
+        "category": "Grains",
+        "subs": ["quinoa flakes", "barley", "granola"]
+    },
+    "barley": {
+        "category": "Grains",
+        "subs": ["rice", "bulgur", "quinoa"]
+    },
+    "quinoa": {
+        "category": "Grains",
+        "subs": ["couscous", "rice", "barley"]
+    },
+    "cornmeal": {
+        "category": "Grains",
+        "subs": ["polenta", "corn flour"]
+    },
+    "tortilla": {
+        "category": "Grains",
+        "subs": ["pita", "bread", "naan"]
+    },
+    "naan": {
+        "category": "Grains",
+        "subs": ["tortilla", "pita", "roti"]
+    },
+    "couscous": {
+        "category": "Grains",
+        "subs": ["quinoa", "rice"]
+    }
+}

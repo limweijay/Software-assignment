@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Monday",
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 100.0,
+        "unit": "g",
+        "kcal": 100.0
+      },
+      {
+        "name": "egg",
+        "qty": 2.0,
+        "unit": "pcs",
+        "kcal": 100.0
+      }
+    ],
+    "total_cal": 200.0
+  },
+  {
+    "name": "Tuesday",
+    "ingredients": [
+      {
+        "name": "noodle",
+        "qty": 100.0,
+        "unit": "g",
+        "kcal": 100.0
+      },
+      {
+        "name": "fishball",
+        "qty": 3.0,
+        "unit": "pcs",
+        "kcal": 150.0
+      }
+    ],
+    "total_cal": 250.0
+  },
+  {
+    "name": "Fried rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 100.0,
+        "unit": "g",
+        "kcal": 100.0
+      },
+      {
+        "name": "egg",
+        "qty": 3.0,
+        "unit": "pcs",
+        "kcal": 150.0
+      }
+    ],
+    "total_cal": 250.0
+  },
+  {
+    "name": "Wednesday",
+    "ingredients": [
+      {
+        "name": "chicken",
+        "qty": 200.0,
+        "unit": "g",
+        "kcal": 150.0
+      },
+      {
+        "name": "rice",
+        "qty": 100.0,
+        "unit": "g",
+        "kcal": 100.0
+      }
+    ],
+    "total_cal": 250.0
+  },
+  {
+    "name": "Chicken rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 100.0,
+        "unit": "g",
+        "kcal": 100.0
+      },
+      {
+        "name": "chicken",
+        "qty": 200.0,
+        "unit": "g",
+        "kcal": 250.0
+      }
+    ],
+    "total_cal": 350.0
+  },
+  {
+    "name": "Breakfast",
+    "ingredients": [
+      {
+        "name": "milo",
+        "qty": 100.0,
+        "unit": "g",
+        "kcal": 100.0
+      }
+    ],
+    "total_cal": 100.0
+  },
+  {
+    "name": "qwertyuiasdfg",
+    "ingredients": [
+      {
+        "name": "egg",
+        "qty": 2.0,
+        "unit": "pcs",
+        "kcal": 100.0
+      },
+      {
+        "name": "rice",
+        "qty": 100.0,
+        "unit": "g",
+        "kcal": 150.0
+      }
+    ],
+    "total_cal": 250.0
+  },
+  {
+    "name": "Recipe 1",
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 100.0,
+        "unit": "g",
+        "kcal": 100.0
+      },
+      {
+        "name": "egg",
+        "qty": 2.0,
+        "unit": "pcs",
+        "kcal": 100.0
+      }
+    ],
+    "total_cal": 200.0
+  }
+]
